@@ -12,9 +12,9 @@
 - Procédural : série d'étapes à réaliser, n'importe quelle procédure peut-être appelée à n'importe quel moment.
 - Structure d’émission/réception de données 
 - Conventions de nommage : Convention pour nommer ses variables ou ses fichiers. (Pas d'espaces, pas de majuscules pour les fonctions, MAJ classes...)
-- PHP
-- AJAX
-- JSON
+- PHP : Hypertext Preprocessor
+- AJAX : asynchronous JavaScript and XML
+- JSON : JavaScript Object Notation
  
  
 ## Contexte :
